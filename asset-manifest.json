@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/darkosel3/quoteGenerator.git/static/css/main.17d351c1.css",
-    "main.js": "/darkosel3/quoteGenerator.git/static/js/main.a426244d.js",
-    "static/js/453.e7740798.chunk.js": "/darkosel3/quoteGenerator.git/static/js/453.e7740798.chunk.js",
-    "index.html": "/darkosel3/quoteGenerator.git/index.html",
-    "main.17d351c1.css.map": "/darkosel3/quoteGenerator.git/static/css/main.17d351c1.css.map",
-    "main.a426244d.js.map": "/darkosel3/quoteGenerator.git/static/js/main.a426244d.js.map",
-    "453.e7740798.chunk.js.map": "/darkosel3/quoteGenerator.git/static/js/453.e7740798.chunk.js.map"
+    "main.css": "/darkosel3/quoteGenerator/static/css/main.17d351c1.css",
+    "main.js": "/darkosel3/quoteGenerator/static/js/main.ed3351a7.js",
+    "static/js/453.e7740798.chunk.js": "/darkosel3/quoteGenerator/static/js/453.e7740798.chunk.js",
+    "index.html": "/darkosel3/quoteGenerator/index.html",
+    "main.17d351c1.css.map": "/darkosel3/quoteGenerator/static/css/main.17d351c1.css.map",
+    "main.ed3351a7.js.map": "/darkosel3/quoteGenerator/static/js/main.ed3351a7.js.map",
+    "453.e7740798.chunk.js.map": "/darkosel3/quoteGenerator/static/js/453.e7740798.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17d351c1.css",
-    "static/js/main.a426244d.js"
+    "static/js/main.ed3351a7.js"
   ]
 }
