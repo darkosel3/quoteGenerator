@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import {useState,useEffect} from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { HashRouter } from "react-router-dom";
 
 
 
@@ -66,9 +67,11 @@ function QuoteBox(){
 
 function App() {
   return (
+    <HashRouter base='/'>
     <div className="App easeTransition">
       <QuoteBox />
     </div>
+    </HashRouter>
   );
 }
 
