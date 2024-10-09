@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/darkosel3/quoteGenerator.git/static/css/main.17d351c1.css",
+    "main.js": "/darkosel3/quoteGenerator.git/static/js/main.bd8dd540.js",
+    "static/js/453.e7740798.chunk.js": "/darkosel3/quoteGenerator.git/static/js/453.e7740798.chunk.js",
+    "index.html": "/darkosel3/quoteGenerator.git/index.html",
+    "main.17d351c1.css.map": "/darkosel3/quoteGenerator.git/static/css/main.17d351c1.css.map",
+    "main.bd8dd540.js.map": "/darkosel3/quoteGenerator.git/static/js/main.bd8dd540.js.map",
+    "453.e7740798.chunk.js.map": "/darkosel3/quoteGenerator.git/static/js/453.e7740798.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d351c1.css",
+    "static/js/main.bd8dd540.js"
+  ]
+}
